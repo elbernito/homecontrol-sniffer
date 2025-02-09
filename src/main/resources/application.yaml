@@ -1,0 +1,7 @@
+logging:
+  level:
+    ch.elbernito.*: debug
+
+spring:
+  application:
+    name: sniffer
